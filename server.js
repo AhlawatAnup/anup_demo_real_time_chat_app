@@ -12,7 +12,7 @@ const publicDirectoryPath = path.join(__dirname, "./public");
 
 app.use(express.static(publicDirectoryPath));
 
-server.listen(3000, "192.168.1.13", () => {
+server.listen(port, () => {
   console.log("Server Started");
 });
 
