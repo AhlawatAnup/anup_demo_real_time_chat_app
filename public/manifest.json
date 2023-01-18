@@ -1,0 +1,20 @@
+{
+    "name": "Real Time Chat App",
+    "short_name": "Chat App",
+    "icons": [
+      {
+        "src": "./res/app_icon.png",
+        "type": "image/png",
+        "sizes": "100x100"
+      }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "description": "A Real Time chat app for demo",
+    "dir": "ltr",
+    "lang": "en-US"
+  }
