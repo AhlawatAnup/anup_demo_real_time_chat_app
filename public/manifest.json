@@ -6,7 +6,19 @@
         "src": "./res/app_icon.png",
         "type": "image/png",
         "sizes": "100x100"
+      },
+      {
+        "src": "./res/app_icon.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+
+      {
+        "src": "./res/app_icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
       }
+
     ],
     "start_url": "/index.html",
     "scope": ".",
